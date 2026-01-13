@@ -5,6 +5,8 @@ Execute commands, in/exfiltrate using your custom RPC Server
 
 This project demonstrates an example of a custom RPC server that you can use for your own purposes, potentially bypassing known detections of command execution via psexec, atexec, and others.
 
+Check more details [here](https://cicada-8.medium.com/impacket-developer-guide-part-3-make-your-own-lateral-movement-a2f8181f657b?postPublishedType=initial)
+
 # Usage
 Deploy RPC Server as u wish. For example:
 ```shell
